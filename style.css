@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(64, 35, 90) !important;
+}
+
+.heading{
+    font-size: 150px;
+    padding-top: 250px;
+    color: white;
+}
+
+.headingSub{
+    font-size: 20px;
+    color: white;
+}
+
+
+.qheading{
+    font-size: 70px;
+    color: white;
+
+}
+
+.qheadingSub{
+    font-size: 15px;
+    color: white;
+
+}
+
+.q1{
+    color: white;
+    
+}
+.r1{
+    color: white;
+}
